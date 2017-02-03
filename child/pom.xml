@@ -1,0 +1,13 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+      <groupId>com.sourcegraph</groupId>
+      <artifactId>project-parent</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+  </parent>
+  <artifactId>child</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+   <build>
+       <sourceDirectory>src/main/java</sourceDirectory>
+   </build>
+</project>
